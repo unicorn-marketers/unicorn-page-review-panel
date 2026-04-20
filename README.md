@@ -2,7 +2,7 @@
 
 A Claude Code skill that assembles 15+ expert personas (each channeling a mini-panel of legends in their discipline) and scores any landing page against the page's actual objective, product context, and ICP. Produces an objective-weighted scorecard with a prioritized P0/P1/P2 action list. A page that scores 90+ on this panel is a page that would impress every legend in the discipline.
 
-Built and used by [Max Finn](https://x.com/maxwellfinn) on real direct response campaigns. Open-sourced for the community.
+Built and used by the President of Unicorn Marketers, [Max Finn](https://x.com/maxwellfinn), on dozens of landing pages created for direct response ad campaigns. Open-sourced for the community.
 
 ## What Makes This Different
 
