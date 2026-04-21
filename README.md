@@ -35,7 +35,7 @@ PHASE 0: CONTEXT BRIEF ──> PHASE 1: PANEL ASSEMBLY ──> PHASE 2: STRUCTUR
 cd /path/to/your/claude-code-project
 
 # Clone the skill into your project
-git clone https://github.com/maxwellfinn/unicorn-page-review-panel.git _tmp-review-panel
+git clone https://github.com/unicorn-marketers/unicorn-page-review-panel.git _tmp-review-panel
 
 # Move the skill and command into place
 cp -r _tmp-review-panel/skills/unicorn-page-review-panel ./skills/
@@ -50,7 +50,7 @@ rm -rf _tmp-review-panel
 ### Option 2: Use as a standalone project
 
 ```bash
-git clone https://github.com/maxwellfinn/unicorn-page-review-panel.git
+git clone https://github.com/unicorn-marketers/unicorn-page-review-panel.git
 cd unicorn-page-review-panel
 # Launch Claude Code from this directory. The .claude/commands/ loader makes the /unicorn-page-review-panel slash command available immediately.
 ```
